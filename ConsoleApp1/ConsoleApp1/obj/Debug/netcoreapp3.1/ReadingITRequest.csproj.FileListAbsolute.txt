@@ -1,0 +1,12 @@
+D:\Trainings\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ReadingITRequest.AssemblyInfoInputs.cache
+D:\Trainings\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ReadingITRequest.AssemblyInfo.cs
+D:\Trainings\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ReadingITRequest.csproj.CoreCompileInputs.cache
+D:\Trainings\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ReadingITRequest.exe
+D:\Trainings\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ReadingITRequest.deps.json
+D:\Trainings\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ReadingITRequest.runtimeconfig.json
+D:\Trainings\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ReadingITRequest.runtimeconfig.dev.json
+D:\Trainings\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ReadingITRequest.dll
+D:\Trainings\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\ReadingITRequest.pdb
+D:\Trainings\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ReadingITRequest.dll
+D:\Trainings\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ReadingITRequest.pdb
+D:\Trainings\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\ReadingITRequest.genruntimeconfig.cache
